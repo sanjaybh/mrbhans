@@ -5,7 +5,7 @@
 })()
 */
 
-module.exports = function mrbhans(string) {
+module.exports = function mrbhans_trim(string) {
   if (typeof string !== "string") throw new TypeError("Tiny wants a string!");
   return string.replace(/\s/g, "");
 };
