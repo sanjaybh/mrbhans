@@ -1,6 +1,6 @@
 {
   "name": "@sanjaybh/mrbhans",
-  "version": "2.1.1",
+  "version": "2.2.2",
   "description": "Basic package - Removes all spaces from a string",
   "license": "ISC",
   "main": "index.js",
