@@ -5,7 +5,7 @@
 })()
 */
 
-/* Master Branch - Main code resides here */
+/* Branch related changes in v1.0 */
 
 /*
 function mrbhans_trim(string) {
